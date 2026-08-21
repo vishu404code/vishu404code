@@ -1,3 +1,5 @@
+# 👨‍💻 Vishnu Kumawat
+
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Vishnu+Kumawat+%F0%9F%91%8B;B.Tech+CS+%26+AI+Student;Python+%7C+C%2B%2B+%7C+HTML;Future+Software+Engineer+%F0%9F%9A%80" alt="Typing SVG" />
 
 <p align="center">
@@ -13,17 +15,16 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="./94422a36-c930-426e-bc85-2b11e89f879b.png" width="420" alt="Vishnu Kumawat - coding style profile artwork" />
-</p>
+---
 
-🚀 About Me
+## 🚀 About Me
 
+```python
 class VishnuKumawat:
 
     name = "Vishnu Kumawat"
     education = "B.Tech Computer Science & Artificial Intelligence"
-
+    
     skills = [
         "Python",
         "C++",
@@ -46,8 +47,11 @@ class VishnuKumawat:
         "Python Development",
         "Web Development"
     ]
+```
 
-🛠️ Tech Stack
+---
+
+## 🛠️ Tech Stack
 
 <p align="center">
 
@@ -55,27 +59,23 @@ class VishnuKumawat:
 
 </p>
 
-💻 Programming
+### 💻 Programming
 
-🐍 Python
+* 🐍 **Python**
+* ⚡ **C++**
+* 🌐 **HTML**
 
-⚡ C++
+### 📚 Currently Learning
 
-🌐 HTML
+* Data Structures & Algorithms
+* Advanced C++
+* Web Development
+* Artificial Intelligence
+* Competitive Programming
 
-📚 Currently Learning
+---
 
-Data Structures & Algorithms
-
-Advanced C++
-
-Web Development
-
-Artificial Intelligence
-
-Competitive Programming
-
-📊 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=vishu404code&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="170"/>
@@ -86,46 +86,47 @@ Competitive Programming
   <img src="https://streak-stats.demolab.com?user=vishu404code&theme=tokyonight&hide_border=true" />
 </p>
 
-🔥 Contribution Graph
+---
+
+## 🔥 Contribution Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=vishu404code&theme=tokyo-night&hide_border=true" />
 </p>
 
-🚀 Featured Projects
+---
 
-🐍 Python Projects
+## 🚀 Featured Projects
 
-Projects built while strengthening Python fundamentals and problem-solving skills.
+### 🐍 Python Projects
 
-🔹 Python Practice Projects
+> Projects built while strengthening Python fundamentals and problem-solving skills.
 
-🔹 Automation Scripts
+* 🔹 Python Practice Projects
+* 🔹 Automation Scripts
+* 🔹 Beginner-to-Intermediate Python Programs
 
-🔹 Beginner-to-Intermediate Python Programs
+### ⚡ C++ Projects
 
-⚡ C++ Projects
+> Exploring programming, problem solving and DSA using C++.
 
-Exploring programming, problem solving and DSA using C++.
+* 🔹 C++ Practice Programs
+* 🔹 DSA Implementations
+* 🔹 Competitive Programming Solutions
 
-🔹 C++ Practice Programs
+### 🌐 Web Projects
 
-🔹 DSA Implementations
+> Building modern and responsive websites using HTML and frontend technologies.
 
-🔹 Competitive Programming Solutions
+* 🔹 Personal Portfolio
+* 🔹 Web Development Projects
+* 🔹 Interactive UI Experiments
 
-🌐 Web Projects
+---
 
-Building modern and responsive websites using HTML and frontend technologies.
+## 🧠 My Developer Journey
 
-🔹 Personal Portfolio
-
-🔹 Web Development Projects
-
-🔹 Interactive UI Experiments
-
-🧠 My Developer Journey
-
+```text
                     ┌─────────────────┐
                     │   B.Tech CS & AI│
                     └────────┬────────┘
@@ -154,34 +155,34 @@ Building modern and responsive websites using HTML and frontend technologies.
                     ┌─────────────────┐
                     │ Software Engineer│
                     └─────────────────┘
+```
 
-🎯 2026 Goals
+---
 
-🧠 Become strong in Data Structures & Algorithms
+## 🎯 2026 Goals
 
-💻 Solve problems consistently on coding platforms
+* [ ] 🧠 Become strong in **Data Structures & Algorithms**
+* [ ] 💻 Solve problems consistently on coding platforms
+* [ ] 🚀 Build real-world projects
+* [ ] 🤖 Learn Artificial Intelligence & Machine Learning
+* [ ] 🌐 Become stronger in Full-Stack Development
+* [ ] 🏆 Participate in Hackathons
+* [ ] 🌟 Build a strong GitHub profile
+* [ ] 👨‍💻 Contribute to Open Source
 
-🚀 Build real-world projects
+---
 
-🤖 Learn Artificial Intelligence & Machine Learning
-
-🌐 Become stronger in Full-Stack Development
-
-🏆 Participate in Hackathons
-
-🌟 Build a strong GitHub profile
-
-👨‍💻 Contribute to Open Source
-
-💡 Developer Quote
+## 💡 Developer Quote
 
 <p align="center">
 
-"Code. Learn. Build. Repeat." 🚀
+> **"Code. Learn. Build. Repeat."** 🚀
 
 </p>
 
-📫 Connect With Me
+---
+
+## 📫 Connect With Me
 
 <p align="center">
 
@@ -195,9 +196,11 @@ Building modern and responsive websites using HTML and frontend technologies.
 
 </p>
 
+---
+
 <p align="center">
 
-⚡ Thanks for visiting my profile!
+### ⚡ Thanks for visiting my profile!
 
 <img src="https://komarev.com/ghpvc/?username=vishu404code&label=Profile%20Views&color=00c6ff&style=for-the-badge" />
 
@@ -206,3 +209,4 @@ Building modern and responsive websites using HTML and frontend technologies.
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,50:203a43,100:0f2027&height=120&section=footer" />
 </p>
+
